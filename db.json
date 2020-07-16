@@ -1,12 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "call": [
+    { "id": 1, "name": "Jason White", "number":"9993456665" },
+    { "id": 2, "name": "Wasim Khan", "number":"2345677890" },
+    { "id": 3, "name": "Amir Khan", "number":"987654320" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "buy": [
+    { "id": 1, "name": "MacBook Pro", "price": 205000, "quantity":1, "type":1 },
+    { "id": 2, "name": "iPad", "price": 20000, "quantity":2, "type":1 },
+    { "id": 3, "name": "Power Bank", "price": 10000, "quantity":4, "type":1 }
   ],
   "profile": {
     "name": "typicode"
